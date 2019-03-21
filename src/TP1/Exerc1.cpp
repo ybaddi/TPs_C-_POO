@@ -9,7 +9,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main1() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 
 	char c = '\x01';
